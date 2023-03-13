@@ -1,6 +1,5 @@
 # study-git
 a
 sdasdsad
-asd
-asd
+as
 asd
